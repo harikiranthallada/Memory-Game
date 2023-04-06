@@ -19,7 +19,7 @@ The following **required** functionality is complete:
 * [x] Computer plays back sequence of clues including sound and visual cue for each button
 * [x] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
 * [x] User wins the game after guessing a complete pattern
-* [x] User loses the game after an incorrect patter guess 
+* [x] User loses the game after an incorrect pattern guess 
 
 
 
