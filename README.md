@@ -11,7 +11,7 @@ Link to project: (https://rich-numerous-conkerberry.glitch.me/)
 
 
 
-The following **required** functionality is complete:
+**Game Play: **
 
 * [x] Game interface have four buttons.
 * [x] "Start" button toggles between "Start" and "Stop" when clicked. 
